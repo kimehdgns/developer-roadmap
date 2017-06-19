@@ -15,7 +15,7 @@
 
 ## 🚀 출발
 
-![](https://i.imgur.com/qBlT67N.png)
+![](https://github.com/WegraLee/developer-roadmap/blob/master/intro-map.png)
 
 ## 🎨 프론트엔드 로드맵
 
