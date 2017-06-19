@@ -1,62 +1,62 @@
 ![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
 
-> Roadmap to becoming a web developer in 2017
+> 웹 개발자가 되는 로드맵 (2017년 버전)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+아래 차트들은 웹 프론트엔드, 백엔드, 데브옵스(DevOps) 개발자가 되고자 할 때 걸어야 할 길과 익혀야 할 기술들입니다. 제자들의 시야를 넓혀 주고 가치 있는 것을 공유하고 하시는 제 옛 교수님고 함께 만들어봤죠.
 
-If you think that these can be improved in anyway, please do suggest.
-
-***
-
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
+어떤 식으로돈 이 자료를 개선할 아이디어가 있다면 제안해주세요.
 
 ***
 
+<p align="center"><b> 이 가이드가 마음에 들고 비슷한 콘텐츠를 더 받아보길 원하시나요? </b><br>곧 <a href="http://hugobots.com">Hugobots</a>을 공개할 테니, 구독하세요!</p>
 
-## 🚀 Introduction
+***
+
+
+## 🚀 출발
 
 ![](https://i.imgur.com/qBlT67N.png)
 
-## 🎨 Front-end Roadmap
+## 🎨 프론트엔드 로드맵
 
 ![](https://i.imgur.com/5vFTWcO.png)
 
-## 👽 Back-end Roadmap
+## 👽 백엔드 로드맵
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time plus I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+백엔드에서는, 개인적으론 Node.js와 PHP 7를 선호합니다. 최근에 Go도 사용해보았는데, 마음에 들더군요. 그 외의 것을 선택해야 한다면 루비를 고르겠습니다. 물론 어디까지나 제 개인 취향이고, 여러분은 차트에 있는 언어 중 무엇을 선택해도 상관 없습니다.
 
 ![](https://i.imgur.com/m9V8ZiV.png)
 
-## 👷 DevOps Roadmap
+## 👷 데브옵스(DevOps) 로드맵
 
 ![](http://i.imgur.com/iNNIZzT.png)
 
 <br>
 
-## 🚦 Wrap Up
+## 🚦 마무리
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+이상의 로드맵을 개선하시려면 수정사항과 함께 Pull 요청을 해주세요. 저 역시 계속 개선해갈 테니, 관심 있으시면 이 저장소에 Watch/Star해주세요.
 
 ## ☑ TODO
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+- [X] 프런트엔드 로드맵 추가
+- [X] 백엔드 로드맵 추가
+- [X] 데브옵스 로드맵 추가
+- [ ] 각각에 관련 자원 추가
 
-## 👬 Contribution
+## 👬 기여
 
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.
+이 로드맵은 [Balsamiq](https://balsamiq.com/products/mockups/)을 사용해 만들었습니다. 프로젝트 파일은 `/project-files` 디렉터리에 있습니다. 어느 로드맵이든 수정하시려면 Balsamiq을 열고 **Project > Import > Mockup JSON**을 클릭하면 로드맵이 열릴 겁니다. 그런 다음 수정하고, 이미지를 업로드해 readme에 있는 이미지를 수정하시고, Pull 요청을 만드세요.
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- 개선사항은 Pull 요청으로
+- 논의는 이슈로
+- 퍼트려주세요~
+- 저에게 직접 연락하려거든 kamranahmed.se@gmail.com이나 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)로~
 
-## Sponsored By
+## 스폰서
 
 [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
 
-## License
+## 라이선스
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
