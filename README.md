@@ -19,17 +19,17 @@
 
 ## 🎨 프론트엔드 로드맵
 
-![](https://i.imgur.com/5vFTWcO.png)
+![](https://github.com/WegraLee/developer-roadmap/blob/master/frontend-map.png)
 
 ## 👽 백엔드 로드맵
 
 백엔드에서는, 개인적으론 Node.js와 PHP 7를 선호합니다. 최근에 Go도 사용해보았는데, 마음에 들더군요. 그 외의 것을 선택해야 한다면 루비를 고르겠습니다. 물론 어디까지나 제 개인 취향이고, 여러분은 차트에 있는 언어 중 무엇을 선택해도 상관 없습니다.
 
-![](https://i.imgur.com/m9V8ZiV.png)
+![](https://github.com/WegraLee/developer-roadmap/blob/master/backend-map.png)
 
 ## 👷 데브옵스(DevOps) 로드맵
 
-![](http://i.imgur.com/iNNIZzT.png)
+![](https://github.com/WegraLee/developer-roadmap/blob/master/devops-map.png)
 
 <br>
 
